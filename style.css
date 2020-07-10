@@ -1,0 +1,88 @@
+
+.HeadLineBorder
+{
+    border: 5px solid red;
+    border-radius: 5px;
+    background-color: black;
+    margin-top: 30px;
+}
+.HeadingText
+{
+    margin-top: 10px;
+    font-family: Brush Script MT;
+    font-size: 40px;
+    color: red;
+}
+
+
+
+
+.CounterBody
+{
+    border: 10px solid red;
+    height: 500px;
+    margin-top: 10px;
+    background-color: black;
+}
+.Label
+{
+    border: 1px solid red;
+    float: left;
+   margin-top: 20px;
+   font-family: Brush Script MT;
+   color: red;
+   background-color: black;
+   font-size: 40px;
+   border-radius: 10px;
+
+}
+
+
+.Display
+{
+    border: 5px solid red;
+    float: left;
+ border-radius: 100px;
+   font-family: Brush Script MT;
+   color: red;
+   margin-top: 30px;
+   font-size: 40px;
+   
+  
+}
+
+
+.Btn
+{
+    border: 5px solid red;
+   
+ width: 150px;
+   font-family: Brush Script MT;
+   color: red;
+   margin-top: 100px;
+   font-size: 40px;
+  margin-left: 20px;
+  background-color: black;
+  
+}
+
+
+.BackSideColor
+{
+    background-color: white;
+}
+
+
+
+
+
+/* .pos
+{
+    margin-left: 90px;
+} */
+/* @media only screen and (max-width: 600px) {
+    .Btn {
+      width: col-4;
+    }
+  } */
+ 
